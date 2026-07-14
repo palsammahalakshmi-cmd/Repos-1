@@ -1,4 +1,4 @@
-# Repos-1
+# day -1
 This is my first git repository.
 <br>
 Author-maha lakshmi
